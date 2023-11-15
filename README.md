@@ -48,6 +48,8 @@ A aplicação faz uso das seguintes tecnologias:
 
 5. Acesse a aplicação em seu navegador através do endereço [http://localhost:3000](http://localhost:3000).
 
+6. Acesse a aplicação no vercel: https://atividade-redux-phi.vercel.app/.
+
 ## Contribuição
 
 Se encontrar algum problema ou tiver sugestões para melhorar esta aplicação, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
